@@ -1,1 +1,4 @@
 venv/
+character_embeddings.pt
+*.pt
+**/nltk_data
