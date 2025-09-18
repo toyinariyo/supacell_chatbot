@@ -25,6 +25,7 @@ This project is an interactive chatbot that lets users talk to the 5 main charac
 
 ## Example Conversation
 >**User:** How did you discover your ability?
+
 >**Sabrina:** I discovered it in the worst possible way. I found out Kevin was cheating on me. I was so angry, and suddenly he was thrown against the door without me touching him.
 
 ## Demo
